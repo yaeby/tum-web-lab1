@@ -58,5 +58,3 @@ Use this template as your first Pull Request "Add basic index.html".
 - https://www.w3schools.com/html/html_basic.asp
 - https://cbea.ms/git-commit/
 - https://strdr4605.com/how-i-use-git
-
-## Adrian was here
